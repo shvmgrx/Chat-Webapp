@@ -12,6 +12,10 @@
   },
   "author": "Shivam Goraksha",
   "license": "ISC",
+  "dependencies": {
+    "socket.io": "*",
+    "express": "*"
+  },
   "bugs": {
     "url": "https://github.com/shvmgrx/Chat-Webapp/issues"
   },
